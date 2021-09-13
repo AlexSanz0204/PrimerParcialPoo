@@ -9,23 +9,19 @@ namespace ParcialPoo.Ngocios
 {
     class ClsUsuario
     {
-        string user = "Juanito";
-        Double clave = 2021;
-        int y = 1;
+        public string comprobante;
 
-        Usuario Cons = new Usuario();
-
-
-        public string Acceso(Usuario Cons)
+        string usuario = "Juanito";
+        int contraseña = 2021;
+        public string Acceso(string nombre, int contra)
         {
-            if (Cons.Nombre == user && Cons.Contra == clave)
+            if (nombre == usuario && contra == contraseña)
 
             {
-                y = 1;
+                comprobante = "1";
                 return "inicio de sesión Correcto, bienvenido.";
             }
             else
-                y = 2;
             return "Sus credenciales de usuario o contraseña son incorrectas, vuelva a intentarlo.";
         }
     }
