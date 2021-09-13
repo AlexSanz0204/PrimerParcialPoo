@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\bin\Debug\ParcialPoo.exe.config
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\bin\Debug\ParcialPoo.exe
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\bin\Debug\ParcialPoo.pdb
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\obj\Debug\ParcialPoo.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\obj\Debug\ParcialPoo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\obj\Debug\ParcialPoo.exe
+C:\Users\Alex\Documents\GitHub\clase01POO\PrimerParcialPoo\ParcialPoo\ParcialPoo\obj\Debug\ParcialPoo.pdb
